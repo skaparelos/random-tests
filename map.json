@@ -30,11 +30,11 @@
         {
          "columns":10,
          "firstgid":1,
-         "image":"iso-64x64-outside.png",
+         "image":"imgs/iso-64x64-outside.png",
          "imageheight":1024,
          "imagewidth":640,
          "margin":0,
-         "name":"iso-64x64-outside",
+         "name":"imgs/iso-64x64-outside",
          "spacing":0,
          "tilecount":160,
          "tileheight":64,
