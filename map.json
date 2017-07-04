@@ -41,7 +41,7 @@
         {
          "columns":10,
          "firstgid":1,
-         "image":"imgs/iso-64x64-outside.png",
+         "image":"isometric code and data\/imgs\/iso-64x64-outside.png",
          "imageheight":1024,
          "imagewidth":640,
          "margin":0,
@@ -51,24 +51,168 @@
          "tileheight":64,
          "tileproperties":
             {
+             "0":
+                {
+                 "grid":"{1}",
+                 "sizeX":1,
+                 "sizeY":1
+                },
+             "1":
+                {
+                 "grid":"{1}",
+                 "sizeX":1,
+                 "sizeY":1
+                },
+             "10":
+                {
+                 "grid":"{1}",
+                 "sizeX":1,
+                 "sizeY":1
+                },
+             "11":
+                {
+                 "grid":"{1}",
+                 "sizeX":1,
+                 "sizeY":1
+                },
              "114":
                 {
                  "walkable":false
                 },
+             "12":
+                {
+                 "grid":"{1}",
+                 "sizeX":1,
+                 "sizeY":1
+                },
+             "13":
+                {
+                 "sizeX":0
+                },
+             "2":
+                {
+                 "grid":"{1}",
+                 "sizeX":1,
+                 "sizeY":1
+                },
+             "20":
+                {
+                 "grid":"{1}",
+                 "sizeX":1,
+                 "sizeY":1
+                },
+             "21":
+                {
+                 "grid":"{1}",
+                 "sizeX":1,
+                 "sizeY":1
+                },
+             "22":
+                {
+                 "grid":"{1}",
+                 "sizeX":1,
+                 "sizeY":1
+                },
+             "23":
+                {
+                 "sizeX":0
+                },
+             "3":
+                {
+                 "sizeX":0
+                },
              "55":
                 {
                  "nonWalkable":true
+                },
+             "7":
+                {
+                 "grid":"{1}",
+                 "size":"{1,1}",
+                 "type":"Unit"
                 }
             },
          "tilepropertytypes":
             {
+             "0":
+                {
+                 "grid":"string",
+                 "sizeX":"int",
+                 "sizeY":"int"
+                },
+             "1":
+                {
+                 "grid":"string",
+                 "sizeX":"int",
+                 "sizeY":"int"
+                },
+             "10":
+                {
+                 "grid":"string",
+                 "sizeX":"int",
+                 "sizeY":"int"
+                },
+             "11":
+                {
+                 "grid":"string",
+                 "sizeX":"int",
+                 "sizeY":"int"
+                },
              "114":
                 {
                  "walkable":"bool"
                 },
+             "12":
+                {
+                 "grid":"string",
+                 "sizeX":"int",
+                 "sizeY":"int"
+                },
+             "13":
+                {
+                 "sizeX":"int"
+                },
+             "2":
+                {
+                 "grid":"string",
+                 "sizeX":"int",
+                 "sizeY":"int"
+                },
+             "20":
+                {
+                 "grid":"string",
+                 "sizeX":"int",
+                 "sizeY":"int"
+                },
+             "21":
+                {
+                 "grid":"string",
+                 "sizeX":"int",
+                 "sizeY":"int"
+                },
+             "22":
+                {
+                 "grid":"string",
+                 "sizeX":"int",
+                 "sizeY":"int"
+                },
+             "23":
+                {
+                 "sizeX":"int"
+                },
+             "3":
+                {
+                 "sizeX":"int"
+                },
              "55":
                 {
                  "nonWalkable":"bool"
+                },
+             "7":
+                {
+                 "grid":"string",
+                 "size":"string",
+                 "type":"string"
                 }
             },
          "tilewidth":64,
