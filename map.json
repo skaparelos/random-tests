@@ -115,6 +115,22 @@
          "spacing":0,
          "tilecount":140,
          "tileheight":64,
+         "tileproperties":
+            {
+             "0":
+                {
+                 "size":"{1,1}",
+                 "type":"Unit"
+                }
+            },
+         "tilepropertytypes":
+            {
+             "0":
+                {
+                 "size":"string",
+                 "type":"string"
+                }
+            },
          "tilewidth":64,
          "transparentcolor":"#ff00ff"
         }],
