@@ -23,7 +23,7 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 8, 0, 0, 0, 122, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8],
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 8, 0, 0, 0, 122, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8],
          "height":10,
          "name":"object Layer 2",
          "opacity":1,
@@ -41,7 +41,7 @@
         {
          "columns":10,
          "firstgid":1,
-         "image":"imgs/iso-64x64-outside.png",
+         "image":"JIvE\/src\/imgs\/iso-64x64-outside.png",
          "imageheight":1024,
          "imagewidth":640,
          "margin":0,
@@ -101,6 +101,20 @@
                  "type":"string"
                 }
             },
+         "tilewidth":64,
+         "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":14,
+         "firstgid":161,
+         "image":"cowboy2.png",
+         "imageheight":640,
+         "imagewidth":896,
+         "margin":0,
+         "name":"cowboy2",
+         "spacing":0,
+         "tilecount":140,
+         "tileheight":64,
          "tilewidth":64,
          "transparentcolor":"#ff00ff"
         }],
